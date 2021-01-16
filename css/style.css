@@ -47,6 +47,16 @@
   --materialize: #ee6e73;
   --html: #e34c26;
   --template: #e34c26;
+  --csharp: #30007A;
+  --unity: #F7F7F7;
+  --photoshop: #2FA3F7;
+  --audacity: #F77501;
+  --aws: #FF9900;
+  --photon: #104577;
+  --audition: #39D1A6;
+  --premiere:#E585EE;
+  --art: #5489CA;
+  --dotnet: #512BD4;
 }
 
 /* reset defaults */
@@ -65,6 +75,56 @@ a {
 
 li {
   list-style: none;
+}
+
+.tag.csharp {
+  background: var(--csharp);
+  box-shadow: 0 0 8px -2px var(--csharp);
+}
+
+.tag.unity {
+  background: var(--unity);
+  box-shadow: 0 0 8px -2px var(--unity);
+}
+
+.tag.photoshop {
+  background: var(--photoshop);
+  box-shadow: 0 0 8px -2px var(--photoshop);
+}
+
+.tag.audacity {
+  background: var(--audacity);
+  box-shadow: 0 0 8px -2px var(--audacity);
+}
+
+.tag.aws {
+  background: var(--aws);
+  box-shadow: 0 0 8px -2px var(--aws);
+}
+
+.tag.photon {
+  background: var(--photon);
+  box-shadow: 0 0 8px -2px var(--photon);
+}
+
+.tag.audition {
+  background: var(--audition);
+  box-shadow: 0 0 8px -2px var(--audition);
+}
+
+.tag.premiere {
+  background: var(--premiere);
+  box-shadow: 0 0 8px -2px var(--premiere);
+}
+
+.tag.art {
+  background: var(--art);
+  box-shadow: 0 0 8px -2px var(--art);
+}
+
+.tag.dotnet {
+  background: var(--dotnet);
+  box-shadow: 0 0 8px -2px var(--dotnet);
 }
 
 .tag.javascript {
@@ -161,6 +221,47 @@ li {
   background: var(--template);
   box-shadow: 0 0 8px -2px var(--template);
 }
+
+.filter.csharp {
+  color: var(--csharp);
+}
+
+.filter.unity {
+  color: var(--unity);
+}
+
+.filter.photoshop {
+  color: var(--photoshop);
+}
+
+.filter.audacity {
+  color: var(--audacity);
+}
+
+.filter.aws {
+  color: var(--aws);
+}
+
+.filter.photon {
+  color: var(--photon);
+}
+
+.filter.audition {
+  color: var(--audition);
+}
+
+.filter.premiere {
+  color: var(--premiere);
+}
+
+.filter.art {
+  color: var(--art);
+}
+
+.filter.dotnet {
+  color: var(--dotnet);
+}
+
 
 .filter.javascript {
   color: var(--javascript);

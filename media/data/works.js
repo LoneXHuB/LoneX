@@ -6,7 +6,7 @@ const works = [
       "Source Code": "https://github.com/LoneXHuB/NinoFive",
       "Screen captures": "https://docs.medamine.now.sh/"
     },
-    "tags": ["C#","Unity","Photoshop","Audacity"],
+    "tags": ["CSharp","Unity","Photoshop","Audacity"],
     "date": "May/2019"
   },
   {
@@ -26,7 +26,7 @@ const works = [
       "Source Code": "https://github.com/LoneXHuB/TchilaVirus",
       "Screen captures": "https://docs.medamine.now.sh/"
     },
-    "tags": ["C#","Unity","Photoshop","Photon","Audacity"],
+    "tags": ["CSharp","Unity","Photoshop","Photon","Audacity"],
     "date": "May/2019"
   },
   {
@@ -35,7 +35,7 @@ const works = [
     "links": {
       "Video": "https://www.youtube.com/watch?v=F82BlnW5z6g"
     },
-    "tags": ["C#","Unity","Photoshop","Audition","Premier Pro"],
+    "tags": ["CSharp","Unity","Photoshop","Audition","Premiere"],
     "date": "May/2019"
   },
   {
@@ -45,7 +45,7 @@ const works = [
       "Source Code": "https://github.com/LoneXHuB/",
       "Video": "https://youtu.be/gm_rFGIjPF4"
     },
-    "tags": ["Premier Pro","Art"],
+    "tags": ["Premiere","Art"],
     "date": "May/2019"
   },
   {
@@ -54,7 +54,7 @@ const works = [
     "links": {
       "Source Code": "https://github.com/LoneXHuB/DetControlTower"
     },
-    "tags": ["C#",".Net framework","MySQL"],
+    "tags": ["CSharp","DotNet","MySQL"],
     "date": "May/2019"
   },
   {
