@@ -24,10 +24,10 @@ const works = [
     "desc": "A multiplayer game project i'm currently working on",
     "links": {
       "Source Code": "https://github.com/LoneXHuB/TchilaVirus",
-      "Video": "Jan/2021"
+      "Video": "https://youtu.be/FtWa8vGsS6o"
     },
     "tags": ["CSharp","Unity","Photoshop","Photon","Audacity"],
-    "date": ""
+    "date": "Jan/2021"
   },
   {
     "title": "Softbody2D tutorial",
