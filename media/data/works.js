@@ -24,7 +24,7 @@ const works = [
     "desc": "A multiplayer game project i'm currently working on",
     "links": {
       "Source Code": "https://github.com/LoneXHuB/TchilaVirus",
-      "Video": "https://youtu.be/FtWa8vGsS6o"
+      "Video": "https://www.youtube.com/watch?v=l6HPy8jvmCI"
     },
     "tags": ["CSharp","Unity","Photoshop","Photon","Audacity"],
     "date": "Jan/2021"
