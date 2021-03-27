@@ -21,7 +21,7 @@ const works = [
   },
   {
     "title": "Tchila virus",
-    "desc": "A multiplayer game project i'm currently working on",
+    "desc": "A multiplayer game project i'm currently working on (as in 2021)",
     "links": {
       "Source Code": "https://github.com/LoneXHuB/TchilaVirus",
       "Video": "https://youtu.be/l6HPy8jvmCI"
