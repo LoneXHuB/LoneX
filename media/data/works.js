@@ -1,7 +1,26 @@
 const works = [
   {
+    "title": "AVICENNA",
+    "desc": "Syringe manipulation robot",
+    "links": {
+      "Video": "https://youtu.be/BeK7Ay3b_Vo"
+    },
+    "tags": ["Python","TF-Agents","pytorch","ROS"],
+    "date": "Dec/2022"
+  },
+  {
+    "title": "fuzzy YOLO-v5",
+    "desc": "Yolo detection model with fuzzy logic rules for loss computation.",
+    "links": {
+      "Source Code": "https://github.com/LoneXHuB/fuzzy-yolov5",
+      "Video": "https://youtu.be/BeK7Ay3b_Vo"
+    },
+    "tags": ["Python","Photoshop","Audacity"],
+    "date": "May/2020"
+  },
+  {
     "title": "NinoFive",
-    "desc": "A mini-game I made a gift for someone precious",
+    "desc": "A mini-game I made as a gift for someone precious",
     "links": {
       "Source Code": "https://github.com/LoneXHuB/NinoFive",
       "Video": "https://youtu.be/Odw3ajT6zQE"
